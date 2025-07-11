@@ -1,6 +1,3 @@
-## ✅ Updated `README.md` Content (for Notebook-Based Project)
-
-````markdown
 # CIFAR-10 Image Classification using ResNet-18 (Jupyter Notebook)
 
 This project demonstrates a complete image classification pipeline on the **CIFAR-10 dataset** using **ResNet-18** and **PyTorch**, implemented entirely in a single Jupyter Notebook: `Resnet.ipynb`.
@@ -108,7 +105,7 @@ Install requirements:
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
 ---
 
@@ -144,11 +141,11 @@ jupyter nbconvert --to script Resnet.ipynb
 
 ## 🔮 Future Enhancements
 
-* Use deeper models: ResNet-34, DenseNet, or EfficientNet
-* Add test-time augmentation (TTA)
-* Experiment with CutMix / Mixup regularization
-* Deploy model as a web app using Streamlit or Flask
-* Export model to ONNX or TorchScript for deployment
+- Use deeper models: ResNet-34, DenseNet, or EfficientNet
+- Add test-time augmentation (TTA)
+- Experiment with CutMix / Mixup regularization
+- Deploy model as a web app using Streamlit or Flask
+- Export model to ONNX or TorchScript for deployment
 
 ---
 
@@ -160,12 +157,11 @@ This project is licensed under the MIT License.
 
 ## 🤝 Acknowledgments
 
-* PyTorch and TorchVision
-* CIFAR-10 dataset contributors
-* ResNet paper: *"Deep Residual Learning for Image Recognition"*
+- PyTorch and TorchVision
+- CIFAR-10 dataset contributors
+- ResNet paper: *"Deep Residual Learning for Image Recognition"*
 
 ---
 
-> Created by **Tilak** | Final Year AIML Engineering Student
-
-``
+> Created by **Tilak** | Final Year AIML Engineering Student  
+> For academic submission, competition entry, and real-world portfolio use
