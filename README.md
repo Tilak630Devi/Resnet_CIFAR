@@ -1,13 +1,3 @@
-Thanks for the clarification — since you're using a **single Jupyter notebook (`Resnet.ipynb`)** for everything instead of `train.py`, `evaluate.py`, etc., your `README.md` should reflect that structure.
-
-I'll now regenerate the README so it:
-
-* Refers to your single notebook (`Resnet.ipynb`)
-* Omits references to `train.py`, `evaluate.py`, `model.py`
-* Clearly explains that training, evaluation, and visualization are all done in one place
-
----
-
 ## ✅ Updated `README.md` Content (for Notebook-Based Project)
 
 ````markdown
@@ -177,18 +167,5 @@ This project is licensed under the MIT License.
 ---
 
 > Created by **Tilak** | Final Year AIML Engineering Student
-> For academic submission, competition entry, and real-world portfolio use
 
-```
-
----
-
-### ✅ Next Step
-
-Would you like this saved and downloaded as:
-- A `README.md` file again?
-- A formatted `.pdf` version?
-- Or also embedded into your GitHub repo automatically?
-
-Let me know and I’ll generate/download it immediately.
-```
+``
