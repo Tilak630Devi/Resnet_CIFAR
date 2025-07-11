@@ -93,7 +93,7 @@ The notebook `Resnet.ipynb` contains:
 
 ### ROC Curve
 
-![ROC Curve](roc_curve.png)
+![ROC Curve](ROC_curve.png)
 
 ---
 
